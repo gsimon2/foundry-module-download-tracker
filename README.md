@@ -1,6 +1,7 @@
 # Foundry Module Download Tracker
 
 ## [Dramatic Rolls](https://github.com/gsimon2/dramatic-rolls)
+![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/dramatic-rolls/1.0.3/module.zip)
 ![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/dramatic-rolls/1.0.2/module.zip)
 ![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/dramatic-rolls/1.0.1/module.zip)
 ![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/dramatic-rolls/v1.0.0/module.zip)
