@@ -7,6 +7,7 @@
 ![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/dramatic-rolls/v1.0.0/module.zip)
 
 ## [Hide Player UI](https://github.com/gsimon2/hide-player-ui)
+![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/hide-player-ui/1.0.3/module.zip)
 ![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/hide-player-ui/v1.0.2/module.zip)
 
 ## [Close Player Art](https://github.com/gsimon2/close-player-art)
