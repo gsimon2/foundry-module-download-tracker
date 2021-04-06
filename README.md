@@ -11,6 +11,7 @@
 ---
 
 ## [Hide Player UI](https://github.com/gsimon2/hide-player-ui) ![GitHub issues](https://img.shields.io/github/issues-raw/gsimon2/hide-player-ui) ![GitHub issues by-label](https://img.shields.io/github/issues/gsimon2/hide-player-ui/enhancement?color=blue&label=Feature%20Requests) ![GitHub issues by-label](https://img.shields.io/github/issues/gsimon2/hide-player-ui/bug?color=red&label=Bugs)
+![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/hide-player-ui/1.1.1/module.zip)
 ![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/hide-player-ui/1.1.0/module.zip)
 ![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/hide-player-ui/1.0.3/module.zip)
 ![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/hide-player-ui/v1.0.2/module.zip)
