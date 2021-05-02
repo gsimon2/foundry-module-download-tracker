@@ -20,6 +20,7 @@
 ---
 
 ## [Close Player Art](https://github.com/gsimon2/close-player-art) ![GitHub issues](https://img.shields.io/github/issues-raw/gsimon2/close-player-art) ![GitHub issues by-label](https://img.shields.io/github/issues/gsimon2/close-player-art/enhancement?color=blue&label=Feature%20Requests&style=plastic) ![GitHub issues by-label](https://img.shields.io/github/issues/gsimon2/close-player-art/bug?color=red&label=Bugs)
+![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/close-player-art/1.1.0/module.zip)
 ![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/close-player-art/1.0.2/module.zip)
 ![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/close-player-art/1.0.1/module.zip)
 ![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/close-player-art/1.0.0/module.zip)
