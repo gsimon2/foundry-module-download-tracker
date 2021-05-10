@@ -28,6 +28,7 @@
 ---
 
 ## [PF2e Inspire Courage Button](https://github.com/gsimon2/pf2e-inspire-courage) ![GitHub issues](https://img.shields.io/github/issues-raw/gsimon2/pf2e-inspire-courage) ![GitHub issues by-label](https://img.shields.io/github/issues/gsimon2/pf2e-inspire-courage/enhancement?color=blue&label=Feature%20Requests) ![GitHub issues by-label](https://img.shields.io/github/issues/gsimon2/pf2e-inspire-courage/bug?color=red&label=Bugs)
+![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/pf2e-inspire-courage/1.0.1/module.zip)
 ![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/pf2e-inspire-courage/1.0.0/module.zip)
 
 ---
