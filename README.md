@@ -22,6 +22,7 @@
 ---
 
 ## [Hide Player UI](https://github.com/gsimon2/hide-player-ui) ![GitHub issues](https://img.shields.io/github/issues-raw/gsimon2/hide-player-ui) ![GitHub issues by-label](https://img.shields.io/github/issues/gsimon2/hide-player-ui/enhancement?color=blue&label=Feature%20Requests) ![GitHub issues by-label](https://img.shields.io/github/issues/gsimon2/hide-player-ui/bug?color=red&label=Bugs)
+![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/hide-player-ui/1.6.0/module.zip)
 ![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/hide-player-ui/1.5.5/module.zip)
 ![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/hide-player-ui/1.5.4/module.zip)
 ![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/hide-player-ui/1.5.3/module.zip)
@@ -40,6 +41,7 @@
 ---
 
 ## [Close Player Art](https://github.com/gsimon2/close-player-art) ![GitHub issues](https://img.shields.io/github/issues-raw/gsimon2/close-player-art) ![GitHub issues by-label](https://img.shields.io/github/issues/gsimon2/close-player-art/enhancement?color=blue&label=Feature%20Requests&style=plastic) ![GitHub issues by-label](https://img.shields.io/github/issues/gsimon2/close-player-art/bug?color=red&label=Bugs)
+![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/close-player-art/1.1.3/module.zip)
 ![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/close-player-art/1.1.2/module.zip)
 ![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/close-player-art/1.1.1/module.zip)
 ![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/close-player-art/1.1.0/module.zip)
