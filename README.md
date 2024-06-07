@@ -4,6 +4,7 @@
 ![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/gsimon2/dramatic-rolls/module.zip)
 ![GitHub Release Date](https://img.shields.io/github/release-date/gsimon2/dramatic-rolls)
 
+![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/dramatic-rolls/2.5.1/module.zip)
 ![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/dramatic-rolls/2.5.0/module.zip)
 ![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/dramatic-rolls/2.4.0/module.zip)
 ![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/dramatic-rolls/2.2.1/module.zip)
