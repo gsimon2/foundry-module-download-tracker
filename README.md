@@ -34,6 +34,7 @@
 ![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/gsimon2/hide-player-ui/module.zip)
 ![GitHub Release Date](https://img.shields.io/github/release-date/gsimon2/hide-player-ui)
 
+![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/hide-player-ui/1.7.5/module.zip)
 ![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/hide-player-ui/1.7.4/module.zip)
 ![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/hide-player-ui/1.7.3/module.zip)
 ![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/hide-player-ui/1.7.2/module.zip)
