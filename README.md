@@ -78,6 +78,7 @@
 ![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/gsimon2/pf2e-inspire-courage/module.zip)
 ![GitHub Release Date](https://img.shields.io/github/release-date/gsimon2/pf2e-inspire-courage)
 
+![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/pf2e-inspire-courage/1.1.3/module.zip)
 ![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/pf2e-inspire-courage/1.1.2/module.zip)
 ![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/pf2e-inspire-courage/1.1.1/module.zip)
 ![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/pf2e-inspire-courage/1.1.0/module.zip)
