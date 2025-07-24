@@ -4,6 +4,7 @@
 ![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/gsimon2/dramatic-rolls/module.zip)
 ![GitHub Release Date](https://img.shields.io/github/release-date/gsimon2/dramatic-rolls)
 
+![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/dramatic-rolls/3.1.2/module.zip)
 ![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/dramatic-rolls/3.1.1/module.zip)
 ![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/dramatic-rolls/3.1.0/module.zip)
 ![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/dramatic-rolls/3.0.2/module.zip)
@@ -34,6 +35,7 @@
 ![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/gsimon2/hide-player-ui/module.zip)
 ![GitHub Release Date](https://img.shields.io/github/release-date/gsimon2/hide-player-ui)
 
+![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/hide-player-ui/1.9.1/module.zip)
 ![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/hide-player-ui/1.9.0/module.zip)
 ![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/hide-player-ui/1.8.0/module.zip)
 ![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/gsimon2/hide-player-ui/1.7.5/module.zip)
